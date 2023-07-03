@@ -5,6 +5,7 @@ Uma API que permitisse um PetShop ter um maior controle e organização dos dado
 Tecnologias utilizadas:
 
  - Python
+ - Django
 
   ## **Devs**
 
