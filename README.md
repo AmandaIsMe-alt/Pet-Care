@@ -1,6 +1,6 @@
 # Pet Care
 
-Uma API que permitisse um PetShop ter um maior controle e organização dos dados dos animais de sua gama de clientes.
+Uma API que possibilita um PetShop ter um maior controle e organização dos dados dos animais de sua gama de clientes.
 
 Tecnologias utilizadas:
 
